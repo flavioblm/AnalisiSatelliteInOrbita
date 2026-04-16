@@ -6,8 +6,7 @@ This project focuses on the analysis and control of a satellite orbit system. Th
 
 The system under analysis is a satellite orbiting the Earth, equipped with actuators that generate both tangential propulsion and control torque. The project studies how to regulate the satellite dynamics in order to achieve a desired orbital condition through mathematical modeling, control analysis, and simulation. :contentReference[oaicite:1]{index=1}
 
-The work combines theoretical control methods with simulation-based validation. Starting from the nonlinear equations of motion, the project develops a linearized model, derives the transfer function, analyzes stability, designs a controller, and verifies the results through MATLAB and Simulink simulations. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
-
+The work combines theoretical control methods with simulation-based validation. Starting from the nonlinear equations of motion, the project develops a linearized model, derives the transfer function, analyzes stability, designs a controller, and verifies the results through MATLAB and Simulink simulations. 
 ## Main Objectives
 
 - model the satellite dynamics starting from the given physical equations
